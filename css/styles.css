@@ -341,7 +341,7 @@ h4 {
   gap: 10px;
 }
 
-.socials-box {
+.socials-link {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -351,8 +351,8 @@ h4 {
   fill: var(--inactive-icon-color);
 }
 
-.socials-box:hover,
-.socials-box:focus {
+.socials-link:hover,
+.socials-link:focus {
   border-radius: 50%;
   background-color: var(--accent-color);
   fill: var(--white-text-color);
