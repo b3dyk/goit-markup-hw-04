@@ -140,7 +140,7 @@ a {
   align-items: center;
 }
 
-.contacts-logo {
+.contacts-icon {
   margin-right: 10px;
   fill: currentColor;
 }
@@ -166,8 +166,8 @@ a {
 .contacts-link:focus,
 .footer-link:hover,
 .footer-link:focus,
-.contacts-logo:hover,
-.contacts-logo:focus {
+.contacts-icon:hover,
+.contacts-icon:focus {
   color: var(--accent-color);
   fill: var(--accent-color);
 }
